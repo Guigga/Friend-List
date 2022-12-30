@@ -1,0 +1,100 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: "roboto";
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(243, 243, 243);
+    margin: auto;
+    justify-content: center;
+}
+
+.chat-fl {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 8px 24px 16px;
+    width: 405px;
+    height: 776px;
+    background: #5F5D72;
+    box-shadow: 1px 2px 3px rgb(0 0 0 / 50%);
+    border-radius: 40px 0px 0px 40px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.friend-chat {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 4px 8px;
+    gap: 40px;
+    width: 384px;
+    height: 64.54px;
+    background: rgba(195, 194, 202, 0.1);
+    border-radius: 10px;
+
+}
+
+.img-main{
+    width: 54.89px;
+    height: 52.99px;
+    border-radius: 100px;
+    flex: none;
+    flex-grow: 0;
+
+}
+
+.user-info{
+    width: 211px;
+    height: 64.54px;
+    flex: none;
+    flex-grow: 0;
+}
+
+.tagline{
+    width: 70.06px;
+    height: 15.14px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 9px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+    font-variant: small-caps;
+    color: #EBEBED;
+}
+
+.nickname{
+    width: 211px;
+    height: 18.17px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.5px;
+    color: #EBEBED;
+}
+
+.elo-icons{
+
+}
+
+.elo{
+
+}
+
+.img-chat{
+
+}
