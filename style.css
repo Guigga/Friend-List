@@ -48,6 +48,7 @@ body {
     border-radius: 100px;
     flex: none;
     flex-grow: 0;
+    background: url("img/83c89f89-157f-4c67-be92-b48e4def513b.png");
 
 }
 
@@ -88,19 +89,34 @@ body {
 }
 
 .elo-icons{
-
+    width: 93.81px;
+    height: 31.23px;
 }
 
 .elo{
-
+    width: 28.7px;
+    height: 31.16px;
+    background: url("img/master.png");
 }
+
 .elo2{
+    width: 28.7px;
+    height: 31.23px;
+    background: url("img/g.master.png");
 
 }
 .elo3{
+    width: 28.7px;
+    height: 31.23px;
+    background: url("img/challenger.png");
 
 }
 
 .img-chat{
-
+    width: 20px;
+    height: 20px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+    background: url("img/chat.png");
 }
