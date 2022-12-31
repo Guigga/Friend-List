@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <aside>
+        <div class="chat-fl">
+            <div class="friend-chat">
+                <img class="img-main"></img>
+                <div class="user-info">
+                    <p class="tagline">#TAGLINE</p>
+                    <p class="nickname">RIOT Nickname</p>
+                    <div class="elo-icons">
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                    </div>
+                </div>
+                <img class="img-chat"></img>    
+            </div>
+
+            <div class="friend-chat">
+                <img class="img-main"></img>
+                <div class="user-info">
+                    <p class="tagline">#TAGLINE</p>
+                    <p class="nickname">RIOT Nickname</p>
+                    <div class="elo-icons">
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                    </div>
+                </div>
+                <img class="img-chat"></img>    
+            </div>
+
+            <div class="friend-chat">
+                <img class="img-main"></img>
+                <div class="user-info">
+                    <p class="tagline">#TAGLINE</p>
+                    <p class="nickname">RIOT Nickname</p>
+                    <div class="elo-icons">
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                    </div>
+                </div>
+                <img class="img-chat"></img>    
+            </div>
+
+            <div class="friend-chat">
+                <img class="img-main"></img>
+                <div class="user-info">
+                    <p class="tagline">#TAGLINE</p>
+                    <p class="nickname">RIOT Nickname</p>
+                    <div class="elo-icons">
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                    </div>
+                </div>
+                <img class="img-chat"></img>    
+            </div>
+
+            <div class="friend-chat">
+                <img class="img-main"></img>
+                <div class="user-info">
+                    <p class="tagline">#TAGLINE</p>
+                    <p class="nickname">RIOT Nickname</p>
+                    <div class="elo-icons">
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                    </div>
+                </div>
+                <img class="img-chat"></img>    
+            </div>
+
+            <div class="friend-chat">
+                <img class="img-main"></img>
+                <div class="user-info">
+                    <p class="tagline">#TAGLINE</p>
+                    <p class="nickname">RIOT Nickname</p>
+                    <div class="elo-icons">
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                    </div>
+                </div>
+                <img class="img-chat"></img>    
+            </div>
+
+            <div class="friend-chat">
+                <img class="img-main"></img>
+                <div class="user-info">
+                    <p class="tagline">#TAGLINE</p>
+                    <p class="nickname">RIOT Nickname</p>
+                    <div class="elo-icons">
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                        <img class="elo"></img>
+                    </div>
+                </div>
+                <img class="img-chat"></img>    
+            </div>
+
+            <div class="friend-chat">
+                <img class="img-main"></img>
+                <div class="user-info">
+                    <p class="tagline">#TAGLINE</p>
+                    <p class="nickname">RIOT Nickname</p>
+                    <div class="elo-icons">
+                        <img class="elo"></img>
+                        <img class="elo2"></img>
+                        <img class="elo3"></img>
+                    </div>
+                </div>
+                <img class="img-chat"></img>    
+            </div>
+
+        </div>
+    </aside>
+</body>
+</html>
